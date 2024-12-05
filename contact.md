@@ -12,7 +12,6 @@ We’d love to hear from you! Whether you have questions, need advice, or want t
 
 ## Social Media
 - [Instagram](#ezpz_3d)
-- [Twitter](#)
 
 ## Booking
 Want to schedule a consultation? Email at [info@ezpz3d.com](mailto:info@ezpz3d.com).
