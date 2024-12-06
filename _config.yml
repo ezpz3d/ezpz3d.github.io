@@ -1,6 +1,8 @@
 title: 3D Processes Education & Consultation
 description: Learn and grow with expert guidance in 3D workflows.
-theme: Midnight
 author: EZPZ3D
 email: info@ezpz3d.com
+markdown: kramdown
+theme: jekyll-theme-midnight
+css: /assets/css/style.css
 css: /assets/css/style.css
