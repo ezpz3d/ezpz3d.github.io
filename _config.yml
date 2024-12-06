@@ -3,6 +3,5 @@ description: Learn and grow with expert guidance in 3D workflows.
 author: EZPZ3D
 email: info@ezpz3d.com
 markdown: kramdown
-theme: jekyll-theme-midnight
-css: /assets/css/style.css
-css: /assets/css/style.css
+theme: midnight
+
