@@ -7,16 +7,17 @@ title: Portfolio
 
 ## Featured Projects
 
-### [Project Name](#)
-*Brief description of the project.*
-![Project Image](assets/images/project1.jpg)
+### [Automation](#)
+*Automate processes from end to end.*
+![Project Image](assets/images/project1.png)
 
-### [Project Name](#)
-*Brief description of the project.*
+### [Research Consultation](#)
+*Turn your idea into reality.*
 ![Project Image](assets/images/project2.jpg)
 
 ## Skills and Techniques
-- 3D Modeling: Blender, Fusion 360
-- 3D Printing: FDM, SLA
-- Scanning: Photogrammetry, LIDAR
-- Software: Unity, Unreal Engine
+- 3D Modeling: Blender, 3D model repair, 3D modeling consultation
+- 3D Printing: 3D model preparation, FDM, Large-format, Print Farm Automation
+- Scanning: Photogrammetry, LIDAR, Structured Light Scanning, Project Consulting
+- Software: AR/VR applications, 3D model repository, remote viewing
+- Systems: Process automation and efficiency revision
