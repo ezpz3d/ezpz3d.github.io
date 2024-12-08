@@ -9,7 +9,7 @@ title: Portfolio
 
 ### [Automation](#)
 *Automate processes from end to end.*
-![Project Image](assets/images/project1.png)
+![Project Image](assets/images/project1.jpg)
 
 ### [Research Consultation](#)
 *Turn your idea into reality.*
